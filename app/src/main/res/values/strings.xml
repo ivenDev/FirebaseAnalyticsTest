@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase Analytics Test</string>
+    <string name="button_text">send event</string>
+</resources>
